@@ -177,8 +177,8 @@ const accountsData = {
       ]
     },
     {
-      "id": "26000-silajit-target",
-      "name": "26000 Silajit Target",
+      "id": "silajit-aur-sugar",
+      "name": "Silajit Aur Sugar",
       "appId": "1622796095268235",
       "appSecret": "d92ba56cb2ea3e52237ff148b5b85c03",
       "shortLivedToken": "EAAQ03Epz2gQBO92OHKyIOWj8eKDCWla7UsOkSYveRCjg5OLGGP27TX9b4q8CdA4wWvuCGBTcwj8QVJEQAAAOhZAdhEcFZAb3SlhvNMZCOAjkqlAicHpp8kfB5dvOOeeFp8nj9dU9qZBi649FYyZAO9ZBMUZBGIQOjQzGjfF8cmta6suPAUNoqKphSqu5X4NSeh68Fx0O8fIL6vthg6ixO2N3dIwjlm4fE8SDLwbJWQsimkZD",
@@ -203,7 +203,7 @@ const accountsData = {
       ]
     }
   ],
-  "currentAccountId": "26000-silajit-target",
+  "currentAccountId": "silajit-aur-sugar",
   "lastUpdated": "2024-02-29T18:45:00.000Z"
 };
 
